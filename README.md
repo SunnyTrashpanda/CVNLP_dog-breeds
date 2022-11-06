@@ -1,4 +1,4 @@
-# CVNLP_dog-breeds
+# CV_Project_dog-breeds
 CV project, dog breeds 
 
 

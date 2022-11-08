@@ -7,8 +7,5 @@ execute the file CVNLP_CSV-Cleanup.ipynb  --
 >To use dataset, pls read from file "dataset_CV.csv" created by *CVNLP_CSV-Cleanup.ipynb*
 
 
-## Step two 
-execute file **AugMix.ipynb**
-
-## Step three
+## Step two
 execute file **main.ipynb**

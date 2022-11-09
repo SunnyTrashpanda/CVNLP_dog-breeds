@@ -1,6 +1,9 @@
 # CV_Project_dog-breeds
 CV project, dog breeds 
 
+## Dataset 
+https://www.kaggle.com/datasets/enashed/dog-breed-photos
+
 ## Step one
 execute the file CVNLP_CSV-Cleanup.ipynb  -- 
 **one time execution only!**

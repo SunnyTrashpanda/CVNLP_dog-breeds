@@ -8,4 +8,4 @@ execute the file CVNLP_CSV-Cleanup.ipynb  --
 
 
 ## Step two
-execute file **main.ipynb**
+choose on of the two files **torch_model.ipynb** or **keras_model.ipynb** and execute it
